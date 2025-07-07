@@ -13,4 +13,4 @@ Welcome to the Goa Tourism Webpage repository! This project is designed to provi
 - CSS
   
 ## Screenshot
-![Screenshot](https://github.com/DotSahilR/Goa_Tourism_Webpage/blob/main/Goa%20Tourism/output1.png)
+![Screenshot](https://github.com/DotSahilR/Goa-Tourism/blob/main/output1.png)
