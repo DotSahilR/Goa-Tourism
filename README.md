@@ -11,6 +11,10 @@ Welcome to the Goa Tourism Webpage repository! This project is designed to provi
 ## Technologies Used
 - HTML
 - CSS
-  
+
+## Live Demo
+[Link](https://dotsahilr.github.io/Goa-Tourism/)
+
 ## Screenshot
 ![Screenshot](https://github.com/DotSahilR/Goa-Tourism/blob/main/output1.png)
+
